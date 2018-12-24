@@ -10,15 +10,15 @@
 ### Resources
 [Intro](https://developer.android.com/guide/topics/media/exoplayer)
 
-#### Developer Guide 
+#### Developer Guide
 
-• [google.github.io/ExoPlayer/guide.html](https://google.github.io/ExoPlayer/guide.html)
+- [google.github.io/ExoPlayer/guide.html](https://google.github.io/ExoPlayer/guide.html)
 
-• [Shrinking ExoPlayer](https://google.github.io/ExoPlayer/shrinking.html)
+- [Shrinking ExoPlayer](https://google.github.io/ExoPlayer/shrinking.html)
 
-• [Battery Consumption](https://google.github.io/ExoPlayer/battery-consumption.html)
+- [Battery Consumption](https://google.github.io/ExoPlayer/battery-consumption.html)
 
-##### Extensions
+#### Extensions
 
 - [github.com/google/ExoPlayer/extensions](https://github.com/google/ExoPlayer/tree/release-v2/extensions/)
 
@@ -28,31 +28,31 @@
 
 #### Samples
 
-• [github.com/google/ExoPlayer](https://github.com/google/ExoPlayer)
+- [github.com/google/ExoPlayer](https://github.com/google/ExoPlayer)
 
-• [github.com/google/ExoPlayer/tree/io18](https://github.com/google/ExoPlayer/tree/io18)
+- [github.com/google/ExoPlayer/tree/io18](https://github.com/google/ExoPlayer/tree/io18)
 
 #### YouTube
 
-• [Building feature-rich media apps with ExoPlayer (Google I/O '18)](https://www.youtube.com/watch?v=svdq1BWl4r8)
+- [Building feature-rich media apps with ExoPlayer (Google I/O '18)](https://www.youtube.com/watch?v=svdq1BWl4r8)
 
 #### Medium
 
-• [google-exoplayer blog](https://medium.com/google-exoplayer)
+- [google-exoplayer blog](https://medium.com/google-exoplayer)
 
-• [ExoPlayer 2 - MediaSource composition (subtitle file, looping, sequencing...)](https://medium.com/google-exoplayer/exoplayer-2-x-mediasource-composition-6c285fcbca1f)
+- [ExoPlayer 2 - MediaSource composition (subtitle file, looping, sequencing...)](https://medium.com/google-exoplayer/exoplayer-2-x-mediasource-composition-6c285fcbca1f)
 
 ### Considerations
 
 #### Streaming Media
-• Firebase Storage (streaming audio/video): [Download Data via URL](https://firebase.google.com/docs/storage/android/download-files#download_data_via_url)
+- Firebase Storage (streaming audio/video): [Download Data via URL](https://firebase.google.com/docs/storage/android/download-files#download_data_via_url)
 
-• Github Issue: [Stream media without downloading](https://github.com/google/ExoPlayer/issues/5028)
+- Github Issue: [Stream media without downloading](https://github.com/google/ExoPlayer/issues/5028)
 
 #### Keep Device Awake
 
-• Documentation: [Manage device awake state](https://developer.android.com/training/scheduling/)
+- Documentation: [Manage device awake state](https://developer.android.com/training/scheduling/)
 
 - [Keep the device awake](https://developer.android.com/training/scheduling/wakelock)
 
-• StackOverflow: [Fragments and Configuration Change](https://stackoverflow.com/a/53908821/2253682)
+- StackOverflow: [Fragments and Configuration Change](https://stackoverflow.com/a/53908821/2253682)
