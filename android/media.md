@@ -12,11 +12,11 @@
 
 #### Developer Guide
 
-- [google.github.io/ExoPlayer/guide.html](https://google.github.io/ExoPlayer/guide.html)
+- [ExoPlayer Guide](https://google.github.io/ExoPlayer/guide.html)
 
-- [Shrinking ExoPlayer](https://google.github.io/ExoPlayer/shrinking.html)
+- - [Shrinking ExoPlayer](https://google.github.io/ExoPlayer/shrinking.html)
 
-- [Battery Consumption](https://google.github.io/ExoPlayer/battery-consumption.html)
+- - [Battery Consumption](https://google.github.io/ExoPlayer/battery-consumption.html)
 
 - ##### Extensions
 
