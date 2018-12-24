@@ -9,41 +9,15 @@
 
 #### [Developer Guide](https://google.github.io/ExoPlayer/guide.html) 
 
-<ul>
+• [Shrinking ExoPlayer](https://google.github.io/ExoPlayer/shrinking.html)
 
-<li>
-
-[Shrinking ExoPlayer](https://google.github.io/ExoPlayer/shrinking.html)
-</li>
-
-<li>
-
-[Battery Consumption](https://google.github.io/ExoPlayer/battery-consumption.html)
-</li>
-
-<li>
-
+• [Battery Consumption](https://google.github.io/ExoPlayer/battery-consumption.html)
 
 ##### [Extensions](https://github.com/google/ExoPlayer/tree/release-v2/extensions/)
 
-</li>
+• [ExoPlayer IMA extension](https://github.com/google/ExoPlayer/tree/release-v2/extensions/ima) (ads loader)
 
-<ul>
-
-<li>
-[ExoPlayer IMA extension](https://github.com/google/ExoPlayer/tree/release-v2/extensions/ima) (ads loader)
-
-</li>
-
-</ul>
-
-<li>
-
-[Releases](https://github.com/google/ExoPlayer/releases)
-
-</li>
-
-</ul>
+• [Releases](https://github.com/google/ExoPlayer/releases)
 
 #### Samples
 
