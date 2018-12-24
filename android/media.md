@@ -92,14 +92,10 @@
 
 ### Considerations
 
-Firebase Storage (streaming audio/video): [Download Data via URL](https://firebase.google.com/docs/storage/android/download-files#download_data_via_url)
+#### Firebase Storage (streaming audio/video): [Download Data via URL](https://firebase.google.com/docs/storage/android/download-files#download_data_via_url)
 
 #### [Manage device awake state](https://developer.android.com/training/scheduling/)
 
-<ul>
+• [Keep the device awake](https://developer.android.com/training/scheduling/wakelock)
 
-[Keep the device awake](https://developer.android.com/training/scheduling/wakelock)
-
-[StackOverflow: Fragments and Configuration Change](https://stackoverflow.com/a/53908821/2253682)
-
-</ul>
+• [StackOverflow: Fragments and Configuration Change](https://stackoverflow.com/a/53908821/2253682)
