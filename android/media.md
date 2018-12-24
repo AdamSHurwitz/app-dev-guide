@@ -82,13 +82,9 @@
 
 #### Medium
 
-<ul>
-
 • [google-exoplayer blog](https://medium.com/google-exoplayer)
 
 • [ExoPlayer 2 - MediaSource composition (subtitle file, looping, sequencing...)](https://medium.com/google-exoplayer/exoplayer-2-x-mediasource-composition-6c285fcbca1f)
-
-</ul>
 
 ### Considerations
 
