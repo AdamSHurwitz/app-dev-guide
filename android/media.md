@@ -9,27 +9,27 @@
 ### Resources
 [Intro](https://developer.android.com/guide/topics/media/exoplayer)
 
-#### [Developer Guide](https://google.github.io/ExoPlayer/guide.html) 
+#### Developer Guide 
+
+• [google.github.io/ExoPlayer/guide.html](https://google.github.io/ExoPlayer/guide.html)
 
 • [Shrinking ExoPlayer](https://google.github.io/ExoPlayer/shrinking.html)
 
 • [Battery Consumption](https://google.github.io/ExoPlayer/battery-consumption.html)
 
-##### [Extensions](https://github.com/google/ExoPlayer/tree/release-v2/extensions/)
+##### Extensions
 
-• [ExoPlayer IMA extension](https://github.com/google/ExoPlayer/tree/release-v2/extensions/ima) (ads loader)
+- [github.com/google/ExoPlayer/extensions](https://github.com/google/ExoPlayer/tree/release-v2/extensions/)
 
-• [Releases](https://github.com/google/ExoPlayer/releases)
+- [ExoPlayer IMA extension](https://github.com/google/ExoPlayer/tree/release-v2/extensions/ima) (ads loader)
+
+- [Releases](https://github.com/google/ExoPlayer/releases)
 
 #### Samples
 
 • [github.com/google/ExoPlayer](https://github.com/google/ExoPlayer)
 
 • [github.com/google/ExoPlayer/tree/io18](https://github.com/google/ExoPlayer/tree/io18)
-
-#### GitHub Issues
-
-• [Stream media without downloading](https://github.com/google/ExoPlayer/issues/5028)
 
 #### YouTube
 
@@ -43,10 +43,15 @@
 
 ### Considerations
 
-#### Firebase Storage (streaming audio/video): [Download Data via URL](https://firebase.google.com/docs/storage/android/download-files#download_data_via_url)
+#### Streaming media
+• Firebase Storage (streaming audio/video): [Download Data via URL](https://firebase.google.com/docs/storage/android/download-files#download_data_via_url)
 
-#### [Manage device awake state](https://developer.android.com/training/scheduling/)
+• Github Issue: [Stream media without downloading](https://github.com/google/ExoPlayer/issues/5028)
 
-• [Keep the device awake](https://developer.android.com/training/scheduling/wakelock)
+#### Keep Device Awake
 
-• [StackOverflow: Fragments and Configuration Change](https://stackoverflow.com/a/53908821/2253682)
+• Documentation: [Manage device awake state](https://developer.android.com/training/scheduling/)
+
+- [Keep the device awake](https://developer.android.com/training/scheduling/wakelock)
+
+• StackOverflow: [Fragments and Configuration Change](https://stackoverflow.com/a/53908821/2253682)
