@@ -9,31 +9,58 @@
 
 #### [Developer Guide](https://google.github.io/ExoPlayer/guide.html) 
 
-• [Shrinking ExoPlayer](https://google.github.io/ExoPlayer/shrinking.html)
+ <ul> 
+ 
+ [Shrinking ExoPlayer](https://google.github.io/ExoPlayer/shrinking.html)
 
-• [Battery Consumption](https://google.github.io/ExoPlayer/battery-consumption.html)
+[Battery Consumption](https://google.github.io/ExoPlayer/battery-consumption.html)
 
 ##### [Extensions](https://github.com/google/ExoPlayer/tree/release-v2/extensions/)
 
-• [ExoPlayer IMA extension](https://github.com/google/ExoPlayer/tree/release-v2/extensions/ima) (ads loader)
+<ul>
+
+[ExoPlayer IMA extension](https://github.com/google/ExoPlayer/tree/release-v2/extensions/ima) (ads loader)
+
+</ul>
 
 [Releases](https://github.com/google/ExoPlayer/releases)
+</ul>
 
 #### Samples
-• [github.com/google/ExoPlayer](https://github.com/google/ExoPlayer)
 
-• [github.com/google/ExoPlayer/tree/io18](https://github.com/google/ExoPlayer/tree/io18)
+<ul>
+ 
+ [github.com/google/ExoPlayer](https://github.com/google/ExoPlayer)
+
+ [github.com/google/ExoPlayer/tree/io18](https://github.com/google/ExoPlayer/tree/io18)
+
+ </ul>
 
 #### GitHub Issues
-• [Stream media without downloading](https://github.com/google/ExoPlayer/issues/5028)
+
+<ul>
+
+[Stream media without downloading](https://github.com/google/ExoPlayer/issues/5028)
+
+</ul>
 
 #### YouTube
-• [Building feature-rich media apps with ExoPlayer (Google I/O '18)](https://www.youtube.com/watch?v=svdq1BWl4r8)
+
+<ul>
+
+[Building feature-rich media apps with ExoPlayer (Google I/O '18)](https://www.youtube.com/watch?v=svdq1BWl4r8)
+
+</ul>
 
 #### Medium
-• [google-exoplayer blog](https://medium.com/google-exoplayer)
 
-• [ExoPlayer 2 - MediaSource composition (subtitle file, looping, sequencing...)](https://medium.com/google-exoplayer/exoplayer-2-x-mediasource-composition-6c285fcbca1f)
+<ul>
+
+[google-exoplayer blog](https://medium.com/google-exoplayer)
+
+[ExoPlayer 2 - MediaSource composition (subtitle file, looping, sequencing...)](https://medium.com/google-exoplayer/exoplayer-2-x-mediasource-composition-6c285fcbca1f)
+
+</ul>
 
 ### Considerations
 
@@ -41,6 +68,10 @@ Firebase Storage (streaming audio/video): [Download Data via URL](https://fireba
 
 #### [Manage device awake state](https://developer.android.com/training/scheduling/)
 
-• [Keep the device awake](https://developer.android.com/training/scheduling/wakelock)
+<ul>
 
-• [StackOverflow: Fragments and Configuration Change](https://stackoverflow.com/a/53908821/2253682)
+[Keep the device awake](https://developer.android.com/training/scheduling/wakelock)
+
+[StackOverflow: Fragments and Configuration Change](https://stackoverflow.com/a/53908821/2253682)
+
+</ul>
