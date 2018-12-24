@@ -21,38 +21,17 @@
 
 #### Samples
 
-<ul>
- 
- <li>
+• [github.com/google/ExoPlayer](https://github.com/google/ExoPlayer)
 
- [github.com/google/ExoPlayer](https://github.com/google/ExoPlayer)
-
- </li>
-
-
-<li>
-
- [github.com/google/ExoPlayer/tree/io18](https://github.com/google/ExoPlayer/tree/io18)
-
- </li>
-
- </ul>
+• [github.com/google/ExoPlayer/tree/io18](https://github.com/google/ExoPlayer/tree/io18)
 
 #### GitHub Issues
 
-<ul>
-
 • [Stream media without downloading](https://github.com/google/ExoPlayer/issues/5028)
-
-</ul>
 
 #### YouTube
 
-<ul>
-
 • [Building feature-rich media apps with ExoPlayer (Google I/O '18)](https://www.youtube.com/watch?v=svdq1BWl4r8)
-
-</ul>
 
 #### Medium
 
