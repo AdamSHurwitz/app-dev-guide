@@ -20,9 +20,9 @@
 [Releases](https://github.com/google/ExoPlayer/releases)
 
 #### Samples
-• github.com/google/ExoPlayer
+• [github.com/google/ExoPlayer](https://github.com/google/ExoPlayer)
 
-• github.com/google/ExoPlayer/tree/io18
+• [github.com/google/ExoPlayer/tree/io18](https://github.com/google/ExoPlayer/tree/io18)
 
 #### GitHub Issues
 • [Stream media without downloading](https://github.com/google/ExoPlayer/issues/5028)
