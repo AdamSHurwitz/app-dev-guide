@@ -1,6 +1,7 @@
 # Media
 
-## [YouTube](https://docs.google.com/document/d/1SP3mo4c4aFclQSJG4ECrCIqbrytPNm_f2LgtULTY25Y/edit)
+## YouTube
+[Guide](https://docs.google.com/document/d/1SP3mo4c4aFclQSJG4ECrCIqbrytPNm_f2LgtULTY25Y/edit)
 
 ---
 
@@ -43,7 +44,7 @@
 
 ### Considerations
 
-#### Streaming media
+#### Streaming Media
 • Firebase Storage (streaming audio/video): [Download Data via URL](https://firebase.google.com/docs/storage/android/download-files#download_data_via_url)
 
 • Github Issue: [Stream media without downloading](https://github.com/google/ExoPlayer/issues/5028)
