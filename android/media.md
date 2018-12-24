@@ -18,11 +18,11 @@
 
 - [Battery Consumption](https://google.github.io/ExoPlayer/battery-consumption.html)
 
-- #### Extensions
+- ##### Extensions
 
-- -  • [github.com/google/ExoPlayer/extensions](https://github.com/google/ExoPlayer/tree/release-v2/extensions/)
+- -  [github.com/google/ExoPlayer/extensions](https://github.com/google/ExoPlayer/tree/release-v2/extensions/)
 
-- - • [ExoPlayer IMA extension](https://github.com/google/ExoPlayer/tree/release-v2/extensions/ima) (ads loader)
+- -  [ExoPlayer IMA extension](https://github.com/google/ExoPlayer/tree/release-v2/extensions/ima) (ads loader)
 
 - [Releases](https://github.com/google/ExoPlayer/releases)
 
