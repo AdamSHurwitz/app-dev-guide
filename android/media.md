@@ -9,30 +9,58 @@
 
 #### [Developer Guide](https://google.github.io/ExoPlayer/guide.html) 
 
- <ul> 
- 
- [Shrinking ExoPlayer](https://google.github.io/ExoPlayer/shrinking.html)
+<ul>
+
+<li>
+
+[Shrinking ExoPlayer](https://google.github.io/ExoPlayer/shrinking.html)
+</li>
+
+<li>
 
 [Battery Consumption](https://google.github.io/ExoPlayer/battery-consumption.html)
+</li>
+
+<li>
+
 
 ##### [Extensions](https://github.com/google/ExoPlayer/tree/release-v2/extensions/)
 
+</li>
+
 <ul>
 
+<li>
 [ExoPlayer IMA extension](https://github.com/google/ExoPlayer/tree/release-v2/extensions/ima) (ads loader)
+
+</li>
 
 </ul>
 
+<li>
+
 [Releases](https://github.com/google/ExoPlayer/releases)
+
+</li>
+
 </ul>
 
 #### Samples
 
 <ul>
  
+ <li>
+
  [github.com/google/ExoPlayer](https://github.com/google/ExoPlayer)
 
+ </li>
+
+
+<li>
+
  [github.com/google/ExoPlayer/tree/io18](https://github.com/google/ExoPlayer/tree/io18)
+
+ </li>
 
  </ul>
 
@@ -40,7 +68,7 @@
 
 <ul>
 
-[Stream media without downloading](https://github.com/google/ExoPlayer/issues/5028)
+• [Stream media without downloading](https://github.com/google/ExoPlayer/issues/5028)
 
 </ul>
 
@@ -48,7 +76,7 @@
 
 <ul>
 
-[Building feature-rich media apps with ExoPlayer (Google I/O '18)](https://www.youtube.com/watch?v=svdq1BWl4r8)
+• [Building feature-rich media apps with ExoPlayer (Google I/O '18)](https://www.youtube.com/watch?v=svdq1BWl4r8)
 
 </ul>
 
@@ -56,9 +84,9 @@
 
 <ul>
 
-[google-exoplayer blog](https://medium.com/google-exoplayer)
+• [google-exoplayer blog](https://medium.com/google-exoplayer)
 
-[ExoPlayer 2 - MediaSource composition (subtitle file, looping, sequencing...)](https://medium.com/google-exoplayer/exoplayer-2-x-mediasource-composition-6c285fcbca1f)
+• [ExoPlayer 2 - MediaSource composition (subtitle file, looping, sequencing...)](https://medium.com/google-exoplayer/exoplayer-2-x-mediasource-composition-6c285fcbca1f)
 
 </ul>
 
