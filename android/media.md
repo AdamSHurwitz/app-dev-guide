@@ -28,6 +28,10 @@
 
 #### Samples
 
+- [Codelab (Instant App, Lifecycle, Adaptive Streaming, etc...)](https://codelabs.developers.google.com/codelabs/exoplayer-intro/#0)
+- - [Customizing the user interface](https://codelabs.developers.google.com/codelabs/exoplayer-intro/#6)
+- - - [exo_playback_control_view.xml](https://raw.githubusercontent.com/google/ExoPlayer/release-v2/library/ui/src/main/res/layout/exo_playback_control_view.xml) (use exact name to override default layout)
+
 - [github.com/google/ExoPlayer](https://github.com/google/ExoPlayer)
 
 - [github.com/google/ExoPlayer/tree/io18](https://github.com/google/ExoPlayer/tree/io18)
