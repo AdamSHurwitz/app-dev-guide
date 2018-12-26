@@ -47,10 +47,13 @@
 - [ExoPlayer 2 - MediaSource composition (subtitle file, looping, sequencing...)](https://medium.com/google-exoplayer/exoplayer-2-x-mediasource-composition-6c285fcbca1f)
 
 ### PlayerView
-| Useful Attributes | |
+
+| Useful Attributes||
 | ----------------- | --- |
 | **app:show_timeout**="_0_" | How long controls are displayed. **0** is always show. |
 | **app:hide_on_touch**="_false_" | Click to hide controls.
+
+
 
 ### Considerations
 
