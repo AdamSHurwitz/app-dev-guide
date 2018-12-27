@@ -1,5 +1,10 @@
 # Media
 
+<ul>
+<li>TOC</li>
+</ul>
+{:toc}
+
 ## YouTube
 [Guide](https://docs.google.com/document/d/1SP3mo4c4aFclQSJG4ECrCIqbrytPNm_f2LgtULTY25Y/edit)
 
@@ -53,7 +58,7 @@
 | **app:show_timeout**="_0_" | How long controls are displayed. **0** is always show. |
 | **app:hide_on_touch**="_false_" | Click to hide controls.
 
-
+### Player States
 
 ### Considerations
 
