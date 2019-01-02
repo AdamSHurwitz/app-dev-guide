@@ -53,7 +53,7 @@
 | **app:show_timeout**="_0_" | How long controls are displayed. **0** is always show. |
 | **app:hide_on_touch**="_false_" | Click to hide controls.
 
-| Player States |
+| Playback States |
 | ------------- |
 | **int STATE_IDLE = 1;** 
 | **int STATE_BUFFERING = 2;**
