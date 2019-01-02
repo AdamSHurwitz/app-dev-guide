@@ -8,7 +8,7 @@
 ## ExoPlayer
 
 ### Resources
-[Intro](https://developer.android.com/guide/topics/media/exoplayer)
+* [Intro](https://developer.android.com/guide/topics/media/exoplayer)
 
 #### Developer Guide
 
