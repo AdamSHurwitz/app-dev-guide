@@ -6,4 +6,4 @@
 
 3. [Contribute](https://github.com/AdamSHurwitz/app-dev-guide) to this guide by submitting a [pull request](https://github.com/AdamSHurwitz/open-dev-guide/pulls).
 
-Consistent high quality contributors may be granted access to modify without submitting pull requests.
+_Consistent high quality contributors may be granted access to modify guides without submitting pull requests._
