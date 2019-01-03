@@ -12,11 +12,16 @@ Outline Test
 
 1. Item
     
-    a. sub item
+    1. sub item
     
-    another sub item with no letter
+    2. another sub item with no letter
+    
+       1. even deeper, have to have `1.` before this line to indent
+       2. have to have `2.` before this line
+           
+           1. further down we go
+           2. 
 
-        c. even deeper, but now it shows as code
 2. Another item
 
     sub item
