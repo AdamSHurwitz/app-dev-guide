@@ -1,6 +1,8 @@
 # Open Dev Guide 
 
-<!-- TOC -->autoauto- [Open Dev Guide](#open-dev-guide)autoauto<!-- /TOC -->
+<!-- TOC -->
+autoauto- [Open Dev Guide](#open-dev-guide)autoauto
+<!-- /TOC -->
 
 | Android |
 |-------------|
