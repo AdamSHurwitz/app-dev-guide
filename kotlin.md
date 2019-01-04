@@ -6,8 +6,6 @@
 
 ## Resources
 
----
-
 [Community ](https://kotlinlang.org/community/)
 
 [Documentation](https://kotlinlang.org/docs/reference/android-overview.html)
