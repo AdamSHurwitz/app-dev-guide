@@ -1,13 +1,15 @@
 # Open Dev Guide 
 
-<!-- TOC -->
-autoauto- [Open Dev Guide](#open-dev-guide)autoauto
-<!-- /TOC -->
+| [Kotlin](kotlin.md) |
+| --- |
 
-| Android |
-|-------------|
-|[Kotlin](android/kotlin.md)|
+| Android | 
+|-------------| 
 |[Media](android/media.md)|
 |[Spreadsheet Integration](android/spreadsheet-integration.md)|
+
+| Firestore |
+| --------- |
+| [Firestore Security Rules](firestore-security-rules.md) |
 
 [Contribute and Setup](setup.md)
