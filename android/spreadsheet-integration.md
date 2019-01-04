@@ -2,7 +2,7 @@
 
 [AirTable](#AirTable)
 
-[Google Sheets](#Google%20Sheets)
+[Google Sheets](#Google-Sheets)
 
 ---
 

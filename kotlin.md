@@ -2,6 +2,8 @@
 
 [Resources](#Resources)
 
+---
+
 ## Resources
 
 ---

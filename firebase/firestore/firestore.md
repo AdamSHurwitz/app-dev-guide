@@ -1,6 +1,6 @@
 # Firestore
 
-[Terminal Commands](#Terminal%20Commands)
+[Terminal Commands](#Terminal-Commands)
 
 [Query](#Query)
 
