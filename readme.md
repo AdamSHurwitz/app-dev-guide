@@ -1,14 +1,8 @@
 # Open Dev Guide 
 
-| [Kotlin](kotlin.md) |
-| --- |
+## [Kotlin](kotlin.md)
 
-| Android | 
-|-------------| 
-|[Media](android/media.md)|
-|[Spreadsheet Integration](android/spreadsheet-integration.md)|
+## [Android](android/android.md)
 
-| [Firebase](firebase/firebase.md) |
-| --------- |
-
+## [Firebase](firebase/firebase.md)
 [Contribute and Setup](setup.md)
