@@ -2,6 +2,7 @@
 
 ## Terminal Commands
 Setup and Install: [Firebase CLI Reference](https://firebase.google.com/docs/cli/)
+
 |Commands||
 |---|---|
 | `firebase login`| 
