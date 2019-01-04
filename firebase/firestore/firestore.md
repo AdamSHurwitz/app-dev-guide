@@ -1,6 +1,8 @@
 # Firestore
 
 ## Terminal Commands
+Used for Security Rules and Cloud Functions
+
 Setup and Install: [Firebase CLI Reference](https://firebase.google.com/docs/cli/)
 
 |Command|Use
