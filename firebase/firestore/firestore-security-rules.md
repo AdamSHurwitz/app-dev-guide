@@ -1,5 +1,9 @@
 # Firestore Security Rules
 
+[Deploy](#Deploy)
+
+---
+
 ## Deploy
 Use VSCode for IDE
 
