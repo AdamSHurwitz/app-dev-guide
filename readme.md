@@ -8,8 +8,7 @@
 |[Media](android/media.md)|
 |[Spreadsheet Integration](android/spreadsheet-integration.md)|
 
-| Firestore |
+| [Firebase](firebase/firebase.md) |
 | --------- |
-| [Firestore Security Rules](firestore-security-rules.md) |
 
 [Contribute and Setup](setup.md)
