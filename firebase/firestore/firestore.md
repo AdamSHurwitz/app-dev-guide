@@ -3,8 +3,8 @@
 ## Terminal Commands
 Setup and Install: [Firebase CLI Reference](https://firebase.google.com/docs/cli/)
 
-|Commands||
-|---|---|
+|Command|Use
+|:---|:---|
 | `firebase login`| 
 | `firebase init`| Initializes cloud functions project
 | `firebase use`| View list of defined aliases under firebaserc file
