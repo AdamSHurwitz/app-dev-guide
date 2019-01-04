@@ -1,5 +1,11 @@
 # Animation
 
+[Resources](#Resources)
+
+[Setup](#Setup)
+
+---
+
 ## Resources 
 
 [Documentation](https://developer.android.com/training/animation/)

@@ -1,6 +1,10 @@
 # Kotlin
 
+[Resources](#Resources)
+
 ## Resources
+
+---
 
 [Community ](https://kotlinlang.org/community/)
 

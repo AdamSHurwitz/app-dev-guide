@@ -1,5 +1,11 @@
 # Firestore
 
+[Terminal Commands](#Terminal%20Commands)
+
+[Query](#Query)
+
+---
+
 ## Terminal Commands
 Used for Security Rules and Cloud Functions
 

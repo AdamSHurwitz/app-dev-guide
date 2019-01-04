@@ -1,5 +1,11 @@
 # Spreadsheet Integration
 
+[AirTable](#AirTable)
+
+[Google Sheets](#Google%20Sheets)
+
+---
+
 ## AirTable
 ### Resources
 [airtable.com/api](https://airtable.com/api)

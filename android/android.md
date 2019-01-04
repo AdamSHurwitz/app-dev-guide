@@ -2,5 +2,5 @@
 
 |Libaries|UI|
 |---|---
-|[Media](android/media.md)|[Animation](animation.md)
-|[Spreadsheet Integration](android/spreadsheet-integration.md)
+|[Media](media.md)|[Animation](animation.md)
+|[Spreadsheet Integration](spreadsheet-integration.md)

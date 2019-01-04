@@ -1,5 +1,11 @@
 # Firebase
 
+[Resources](#Resources)
+
+[Firestore](#Firestore)
+
+---
+
 ## Resources
 [Release versions](https://firebase.google.com/support/release-notes/android#latest_sdk_versions)
 
