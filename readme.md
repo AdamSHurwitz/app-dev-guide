@@ -5,4 +5,6 @@
 ## [Android](android/android.md)
 
 ## [Firebase](firebase/firebase.md)
+
+## [Ads](ads/ads.md)
 [Contribute and Setup](setup.md)
