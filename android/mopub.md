@@ -2,6 +2,8 @@
 
 [Resources](#Resources)
 
+[Setup](#Setup)
+
 ---
 
 ## Resources
@@ -25,3 +27,5 @@
 [Getting Started](https://developers.mopub.com/docs/android/getting-started/#add-a-network-security-configuration-file)
 
 [Issue: Could not find _moat-mobile-app-kit_](https://stackoverflow.com/a/54057021/2253682)
+
+[Integrate MoPub Mediation Adapters](https://developers.mopub.com/docs/mediation/integrate/)
