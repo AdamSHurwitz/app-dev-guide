@@ -8,28 +8,93 @@
 
 ### Resources
 
+**Documentation**
+
+[Publisher UI](https://developers.mopub.com/docs/ui/)
+
+[Mediation](https://developers.mopub.com/docs/mediation/)
+
 **Community**
 
 [Twitter Forum](https://twittercommunity.com/)
 
 ### [Android](../android/mopub.md)
 
+### Sources
+#### Marketplace
+
+   About: Advertisers bid against each other for placements through _DSPs_ (Demand Side Partners).
+
+   [Documentation](https://developers.mopub.com/docs/ui/marketplace/)
+
+#### Networks
+
+   About: Show ads from specific networks using mediation for competitive bidding.
+
+   [Networks](https://developers.mopub.com/docs/ui/networks/)
+   
+   [Mediation](https://developers.mopub.com/docs/mediation/)
+
+   Best practices
+   - Use unique network IDs per ad unit. 
+   - Reduce [latency](https://developers.mopub.com/docs/mediation/waterfall-latency-and-best-practices/#latency-types-summary)
+      - Minimize ad sources in waterfall. (ie:  removing low-CPM and low-fill network partners)
+      - Set items at the same priority to parallelize requests improving latency and CPMs due to competition. 
+
+#### Orders & Line Items
+
+   About: Direct sale or in-house ads.
+
+   [Documentation](https://developers.mopub.com/docs/ui/orders/#line-item-types)
+
+- Guaranteed: Will always show. Used for direct buys. _Default is Priority 6_
+- Promotional: House ads or in-app purchases. _Default Priority 10_
+- Marketplace: Set a geo floor price for marketplace, or to prioritize Marketplace higher than network campaigns. _Default Priority 10_
+- Network: One-time network campaign at a higher priority than your other network campaigns. Used to run a network with limited budget or time period. _Default Priority 10_
+- Non-Guaranteed: Campaign without a guaranteed number of impressions. _Default Priority 12_
+- Backfill: Promotional line item like house ads. _Default lowest Priority level, 16_
+
+   ##### Targeting
+   [Documentation](https://developers.mopub.com/docs/ui/orders/line-item-targeting/)
+
+   - Geo
+   - Installed apps (that you own)
+   - Custom data (sent from client)
+
+### Organize With Segments
+
+[Documentation](https://developers.mopub.com/docs/ui/segments/)
+
+Grouping
+- Ad units/Apps
+- Ad networks
+- Geography
+
+Best Practices
+
+- Assign CPM to each segment and containing units/networks.
+- Don't overlap segments.
+- Each country is only present in a single segment in order to see complete network waterfall in one segment.
+
+
 ### Native
+
+[Supported Networks Chart](https://developers.mopub.com/docs/mediation/supported-mediation-partners/)
 
 [Best Practices](https://developers.mopub.com/docs/publisher/best-practices/native-ads/)
 
-1. **Attributes**
+#### Attributes
 
-   a. Frequency Caps (per user)
-   1. hourly impressions
-   2. daily impressions
+- Frequency Caps (per user)
+   - hourly impressions
+   - daily impressions
 
-   b. Ad Positions: show ads every _number_.
+- Ad Positions: show ads every _number_.
 
-2. **Test**
+**Test**
 
-- Setup direct campaign from [_Orders_](https://developers.mopub.com/docs/ui/orders/) tab.
+Setup direct campaign from [_Orders_](https://developers.mopub.com/docs/ui/orders/) tab.
 
-  or
+or
 
-- Use ad unit ID with sample ads: 76a3fefaced247959582d2d2df6f4757
+Use ad unit ID with sample ads: 76a3fefaced247959582d2d2df6f4757
