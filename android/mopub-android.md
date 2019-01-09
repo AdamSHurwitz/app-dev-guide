@@ -1,4 +1,4 @@
-# mopub
+# MoPub Android
 
 [Resources](#Resources)
 

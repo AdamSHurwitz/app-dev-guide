@@ -2,13 +2,27 @@
 
 [Resources](#Resources)
 
+[MoPub](#MoPub)
+
 ---
 
 ## Resources
 
 **Community**
 
+[flutter.io/community](https://flutter.io/community)
+
+[github.com/flutter/flutter/issues](https://github.com/flutter/flutter/issues)
+
 [Google Group](https://groups.google.com/forum/#!forum/flutter-dev)
+
+[Slack](https://flutterstudygroup.slack.com/)
+
+[r/FlutterDev](https://www.reddit.com/r/FlutterDev/)
+
+[Twitter](https://twitter.com/flutterio)
+
+[gitter](https://gitter.im/flutter/flutter)
 
 **Samples**
 
@@ -70,3 +84,5 @@ VisualStudioCode (lightweight)
 [118: Flutter and cross platform development with GDE Eugenio Marletti – Part 1](http://fragmentedpodcast.com/episodes/118/)
 
 [119: Flutter with GDE Eugenio Marletti – Part 2](http://fragmentedpodcast.com/episodes/119/)
+
+# [MoPub](mopub-flutter.md)

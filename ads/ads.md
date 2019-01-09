@@ -22,7 +22,9 @@
 
 [Twitter Forum](https://twittercommunity.com/)
 
-### [Android](../android/mopub.md)
+### [Android](../android/mopub-android.md)
+
+### [Flutter](../flutter/mopub-flutter.md)
 
 ### Sources
 #### Marketplace
