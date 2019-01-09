@@ -1,10 +1,12 @@
 # Ads
 
-[mopub](#mopub)
+[mopub](#MoPub)
+
+[Facebook](#Facebook)
 
 ---
 
-## mopub
+## MoPub
 
 ### Resources
 
@@ -13,6 +15,8 @@
 [Publisher UI](https://developers.mopub.com/docs/ui/)
 
 [Mediation](https://developers.mopub.com/docs/mediation/)
+
+   - [Integrate MoPub Mediation Adapters](https://developers.mopub.com/docs/mediation/integrate/)
 
 **Community**
 
@@ -98,3 +102,19 @@ Setup direct campaign from [_Orders_](https://developers.mopub.com/docs/ui/order
 or
 
 Use ad unit ID with sample ads: 76a3fefaced247959582d2d2df6f4757
+
+#### Ad Unit Ids
+
+_Apps_ > _appName_ > _adUnitName_ > _Edit Ad Unit_ > _View code integration_
+
+![ad unit id](images/ad_unit_id.png)
+
+## Facebook
+
+### Resources
+
+[Mediate Facebook](https://developers.mopub.com/docs/mediation/networks/facebook/)
+
+[System User Token Generation](https://developers.facebook.com/docs/audience-network/reporting-api/systemuser/) (Used to enable MoPub reporting access.)
+
+[Testing Audience Network Implementation](https://developers.facebook.com/docs/audience-network/testing/#testing-real)
