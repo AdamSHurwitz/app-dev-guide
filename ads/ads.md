@@ -1,6 +1,6 @@
 # Ads
 
-[mopub](#MoPub)
+[MoPub](#MoPub)
 
 [Facebook](#Facebook)
 
