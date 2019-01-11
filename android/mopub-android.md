@@ -45,3 +45,5 @@
 **Content Change Strategy**
 
     moPubAdapter.setContentChangeStrategy(MoPubRecyclerAdapter.ContentChangeStrategy.KEEP_ADS_FIXED)
+
+**Test Ad Unit ID:** _11a17b188668469fb0412708c3d16813_
