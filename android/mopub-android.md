@@ -4,6 +4,8 @@
 
 [Setup](#Setup)
 
+[Native](#Native)
+
 ---
 
 ## Resources
@@ -24,10 +26,22 @@
 
 [Ad Placer (via MoPubRecyclerAdapter)](https://github.com/mopub/mopub-android-sdk/blob/master/mopub-sample/src/main/java/com/mopub/simpleadsdemo/NativeRecyclerViewFragment.java)
 
-# Setup
+## Setup
 
 [Getting Started](https://developers.mopub.com/docs/android/getting-started/#add-a-network-security-configuration-file)
 
 [Issue: Could not find _moat-mobile-app-kit_](https://stackoverflow.com/a/54057021/2253682)
 
 [Integrate MoPub Mediation Adapters](https://developers.mopub.com/docs/mediation/integrate/)
+
+[Usage With Existing RecyclerAdapter](https://developers.mopub.com/docs/android/native/#method-2-ad-placer-via-mopubrecycleradapter)
+
+## Native
+
+**Modifying Original Adapter**
+     
+     adapter.organizeConten(moPubAdapter.getOriginalPosition(viewHolder.adapterPosition))
+
+**Content Change Strategy**
+
+    moPubAdapter.setContentChangeStrategy(MoPubRecyclerAdapter.ContentChangeStrategy.KEEP_ADS_FIXED)
