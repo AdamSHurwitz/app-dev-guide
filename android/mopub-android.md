@@ -18,8 +18,6 @@
 
 [Android](https://developers.mopub.com/docs/android/)
 
-[Native](https://developers.mopub.com/docs/android/native/)
-
 **Samples**
 
 [Ad Placer (via MoPubAdAdapter)](https://github.com/mopub/mopub-android-sdk/blob/master/mopub-sample/src/main/java/com/mopub/simpleadsdemo/NativeListViewFragment.java)
@@ -32,11 +30,15 @@
 
 [Issue: Could not find _moat-mobile-app-kit_](https://stackoverflow.com/a/54057021/2253682)
 
+Facebook - [Android Network Security Config](https://developers.facebook.com/docs/audience-network/android-network-security-config)
+
 [Integrate MoPub Mediation Adapters](https://developers.mopub.com/docs/mediation/integrate/)
 
 [Usage With Existing RecyclerAdapter](https://developers.mopub.com/docs/android/native/#method-2-ad-placer-via-mopubrecycleradapter)
 
 ## Native
+
+[Native](https://developers.mopub.com/docs/android/native/)
 
 **Modifying Original Adapter**
      

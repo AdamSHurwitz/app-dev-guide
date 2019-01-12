@@ -10,9 +10,11 @@
 
 [Resources](#Resources)
 
-[Android](#Android)
+[General Setup](#General-Setup)
 
-[Flutter](#Flutter)
+[Android](../android/mopub-android.md)
+
+[Flutter](../flutter/mopub-flutter.md)
 
 [Sources](#Sources)
 
@@ -32,13 +34,18 @@
 
    - [Integrate MoPub Mediation Adapters](https://developers.mopub.com/docs/mediation/integrate/)
 
+[Testing](https://developers.mopub.com/docs/android/testing/)
+
 **Community**
 
 [Twitter Forum](https://twittercommunity.com/)
 
-### [Android](../android/mopub-android.md)
+### General Setup
 
-### [Flutter](../flutter/mopub-flutter.md)
+1. Add app.
+2. Add ad unit.
+3. Add network (include [placement id](#setup)), marketplace (if app is live), or direct order.
+4. Add segment. (targeting optional)
 
 ### Sources
 #### Marketplace
@@ -56,7 +63,7 @@
    [Mediation](https://developers.mopub.com/docs/mediation/)
 
    Best practices
-   - Use unique network IDs per ad unit. 
+   - Use unique network IDs (same as placement id) per ad unit. 
    - Reduce [latency](https://developers.mopub.com/docs/mediation/waterfall-latency-and-best-practices/#latency-types-summary)
       - Minimize ad sources in waterfall. (ie:  removing low-CPM and low-fill network partners)
       - Set items at the same priority to parallelize requests improving latency and CPMs due to competition. 
@@ -127,10 +134,32 @@ _Apps_ > _appName_ > _adUnitName_ > _Edit Ad Unit_ > _View code integration_
 
 ## Facebook
 
+[Resources](#Resources)
+
+[Setup](#Setup)
+
+[Testing](#Testing)
+
+---
+
 ### Resources
 
-[Mediate Facebook](https://developers.mopub.com/docs/mediation/networks/facebook/)
+[Business Manager](https://business.facebook.com/) > Monetization Manager
+
+[MoPub - Mediate Facebook](https://developers.mopub.com/docs/mediation/networks/facebook/)
 
 [System User Token Generation](https://developers.facebook.com/docs/audience-network/reporting-api/systemuser/) (Used to enable MoPub reporting access.)
 
-[Testing Audience Network Implementation](https://developers.facebook.com/docs/audience-network/testing/#testing-real)
+### Setup
+
+[Monetize Your App With Audience Network](https://www.facebook.com/help/publisher/1195459597167215)
+   1. Create property 
+      1. Create placement ID (Required for MoPub): _Business Manager_ > _Monetization Manager_ > _Create Property_ > add platform > _Create Ad Space_ > _Copy ID_
+      2. Setup payment: _Your app won't be able to receive Audience Network ads until payout information has been added._
+
+### Testing
+ [Testing Audience Network Implementation](https://developers.facebook.com/docs/audience-network/testing/#testing-real)
+- [Test Devices](https://business.facebook.com/pub/testdevices?business_id=2451110181597794)
+- [Ad Request Debugger](https://business.facebook.com/pub/property/request_debugger?business_id=2451110181597794&property_id=1189190221239799)
+
+Device IDFA/AAID: _Settings_>_Google_>_Ads_>_Your advertising ID: ####_
