@@ -22,6 +22,8 @@
 
 [Native](#Native)
 
+[Native Video](https://developers.mopub.com/docs/android/native-video/)
+
 ---
 
 ### Resources
@@ -139,6 +141,8 @@ _Apps_ > _appName_ > _adUnitName_ > _Edit Ad Unit_ > _View code integration_
 [Setup](#Setup)
 
 [Testing](#Testing)
+
+[Native Design Requirements](https://developers.facebook.com/docs/audience-network/guidelines/native-ads)
 
 ---
 

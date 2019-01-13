@@ -2,5 +2,5 @@
 
 |Libaries|UI|
 |---|---
-|[Media](media.md)|[Animation](animation.md)
-|[Spreadsheet Integration](spreadsheet-integration.md)
+|[Media](media.md)|[Layouts](layouts/layouts.md)
+|[Spreadsheet Integration](spreadsheet-integration.md)|[Animation](animation.md)
