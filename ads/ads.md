@@ -26,6 +26,10 @@
 
 ### Resources
 
+**Community**
+
+[Twitter Forum](https://twittercommunity.com/)
+
 **Documentation**
 
 [Publisher UI](https://developers.mopub.com/docs/ui/)
@@ -35,10 +39,6 @@
    - [Integrate MoPub Mediation Adapters](https://developers.mopub.com/docs/mediation/integrate/)
 
 [Testing](https://developers.mopub.com/docs/android/testing/)
-
-**Community**
-
-[Twitter Forum](https://twittercommunity.com/)
 
 ### General Setup
 
@@ -148,7 +148,9 @@ _Apps_ > _appName_ > _adUnitName_ > _Edit Ad Unit_ > _View code integration_
 
 [MoPub - Mediate Facebook](https://developers.mopub.com/docs/mediation/networks/facebook/)
 
-[System User Token Generation](https://developers.facebook.com/docs/audience-network/reporting-api/systemuser/) (Used to enable MoPub reporting access.)
+[Native ad design guidelines](https://developers.facebook.com/docs/audience-network/guidelines/native-ads)
+
+[System User Token Generation](https://developers.facebook.com/docs/audience-network/reporting-api/systemuser/) (Used to enable MoPub reporting access)
 
 ### Setup
 

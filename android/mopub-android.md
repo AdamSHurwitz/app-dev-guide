@@ -40,9 +40,11 @@ Facebook - [Android Network Security Config](https://developers.facebook.com/doc
 
 [Native](https://developers.mopub.com/docs/android/native/)
 
+Facebook - [Set up your ad renderers](https://developers.mopub.com/docs/android/integrating-networks/#native-ad-set-up-your-ad-renderers) (required)
+
 **Modifying Original Adapter**
      
-     adapter.organizeConten(moPubAdapter.getOriginalPosition(viewHolder.adapterPosition))
+     adapter.organizeContent(moPubAdapter.getOriginalPosition(viewHolder.adapterPosition))
 
 **Content Change Strategy**
 
