@@ -4,6 +4,8 @@
 
 [Facebook](#Facebook)
 
+[Yahoo! Flurry](#Yahoo!-Flurry)
+
 ---
 
 ## MoPub
@@ -159,9 +161,10 @@ _Apps_ > _appName_ > _adUnitName_ > _Edit Ad Unit_ > _View code integration_
 ### Setup
 
 [Monetize Your App With Audience Network](https://www.facebook.com/help/publisher/1195459597167215)
-   1. Create property 
+   1. Create ad placement
       1. Create placement ID (Required for MoPub): _Business Manager_ > _Monetization Manager_ > _Create Property_ > add platform > _Create Ad Space_ > _Copy ID_
       2. Setup payment: _Your app won't be able to receive Audience Network ads until payout information has been added._
+   2. Manage placements: _Business Manager_ > _Monetization Manager_ > select property > _Manage Property_
 
 ### Testing
  [Testing Audience Network Implementation](https://developers.facebook.com/docs/audience-network/testing/#testing-real)
@@ -169,3 +172,17 @@ _Apps_ > _appName_ > _adUnitName_ > _Edit Ad Unit_ > _View code integration_
 - [Ad Request Debugger](https://business.facebook.com/pub/property/request_debugger?business_id=2451110181597794&property_id=1189190221239799)
 
 Device IDFA/AAID: _Settings_>_Google_>_Ads_>_Your advertising ID: ####_
+
+## Yahoo! Flurry
+
+[Flurry Dashboard](https://dev.flurry.com/metrics/)
+
+**Documentation**
+
+[Monetization](https://developer.yahoo.com/flurry/docs/publisher/)
+
+[Native Dashboard Configuration](https://developer.yahoo.com/flurry/docs/publisher/gettingstarted/nativeadsetup/)
+
+[Error Codes](https://developer.yahoo.com/flurry/docs/faq/faqpublisher/android/#android-error-codes)
+
+Sample - [flurry/YodelAndroidApp](https://github.com/flurry/YodelAndroidApp)
