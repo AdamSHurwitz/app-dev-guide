@@ -2,6 +2,8 @@
 
 ## [Kotlin](kotlin/kotlin.md)
 
+## [ReactiveX](reactivex/reactivex.md)
+
 ## [Android](android/android.md)
 
 ## [Flutter](flutter/flutter.md)
