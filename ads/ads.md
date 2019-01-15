@@ -156,7 +156,7 @@ _Apps_ > _appName_ > _adUnitName_ > _Edit Ad Unit_ > _View code integration_
 
 [Native ad design guidelines](https://developers.facebook.com/docs/audience-network/guidelines/native-ads)
 
-[System User Token Generation](https://developers.facebook.com/docs/audience-network/reporting-api/systemuser/) (Used to enable MoPub reporting access)
+[System User Token Generation](https://developers.facebook.com/docs/audience-network/reporting-api/systemuser/) (Used for MoPub reporting)
 
 ### Setup
 
@@ -165,6 +165,7 @@ _Apps_ > _appName_ > _adUnitName_ > _Edit Ad Unit_ > _View code integration_
       1. Create placement ID (Required for MoPub): _Business Manager_ > _Monetization Manager_ > _Create Property_ > add platform > _Create Ad Space_ > _Copy ID_
       2. Setup payment: _Your app won't be able to receive Audience Network ads until payout information has been added._
    2. Manage placements: _Business Manager_ > _Monetization Manager_ > select property > _Manage Property_
+   3. Create [system user token](https://developers.facebook.com/docs/audience-network/reporting-api/systemuser#systemuser) for reporting. (_Only those apps with Live status can be used to generate System User Access Token._)
 
 ### Testing
  [Testing Audience Network Implementation](https://developers.facebook.com/docs/audience-network/testing/#testing-real)
@@ -182,6 +183,8 @@ Device IDFA/AAID: _Settings_>_Google_>_Ads_>_Your advertising ID: ####_
 [Monetization](https://developer.yahoo.com/flurry/docs/publisher/)
 
 [Native Dashboard Configuration](https://developer.yahoo.com/flurry/docs/publisher/gettingstarted/nativeadsetup/)
+
+[Acquire the API access token](https://developer.yahoo.com/flurry/docs/api/code/apptoken/) (Used for MoPub reporting)
 
 [Error Codes](https://developer.yahoo.com/flurry/docs/faq/faqpublisher/android/#android-error-codes)
 
