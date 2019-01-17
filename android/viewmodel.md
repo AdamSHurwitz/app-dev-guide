@@ -1,8 +1,17 @@
 # ViewModel
 
+[About](#About)
+
 [Resources](#Resources)
 
 ---
+
+## About
+
+- Retained across configuration changes for data too large for onSaveInstanceState().
+- Caches live data.
+- Can share data between Fragments and Activities without referencing each other or parent Activity.
+
 
 ## Resources
 
