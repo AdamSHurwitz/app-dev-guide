@@ -50,6 +50,7 @@
 - **apply**
 
 ![Scoping Functions](images/scoping-functions.png)
+
 _From 'Mastering Kotlin standard functions...' Medium_
 
 `run` 
