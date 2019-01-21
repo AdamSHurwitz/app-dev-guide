@@ -14,7 +14,7 @@
 
 [General Setup](#General-Setup)
 
-[Android](../android/mopub-android.md)
+[Android](mopub-android.md)
 
 [Flutter](../flutter/mopub-flutter.md)
 

@@ -2,7 +2,7 @@
 
 ## [Kotlin](kotlin/kotlin.md)
 
-## [ReactiveX](reactivex/reactivex.md)
+## [ReactiveX](rx/rx.md)
 
 ## [Android](android/android.md)
 

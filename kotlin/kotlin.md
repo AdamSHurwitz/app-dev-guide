@@ -4,6 +4,8 @@
 
 [Scoping Functions](#Scoping-Functions)
 
+[ReactiveX Kotlin](../reactivex/rxkotlin.md)
+
 ---
 
 ## Resources

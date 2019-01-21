@@ -1,3 +1,0 @@
-# ReactiveX
-
-[RxJava](rxjava.md)
