@@ -18,19 +18,19 @@
        .compose(RxHelpers.IOAndMainThreadSchedulers())
        .doOnCompleted { ... }
        .subscribe({
-          //do something with it
+          // Do something with 'it'.
         }, { 
           throwable -> //do something
         })
     
     Observable.zip(
-         //returns Observable
+       // Returns Observable.
        getPrice(...),
        getPrice(...),
        { gdax, binance ->
-          //do something
+          // Do something.
        }).subscribe({ s -> 
-          //do something
+          // Do something.
        }).unsubscribe()
 
     private fun getPrice(...) : Observable<Type> {
