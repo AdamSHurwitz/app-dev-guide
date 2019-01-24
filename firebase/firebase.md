@@ -2,7 +2,9 @@
 
 [Resources](#Resources)
 
-[Firestore](#Firestore)
+[Firestore](firestore/firestore.md)
+
+[Firestore Storage](firebase-storage.md)
 
 ---
 
@@ -18,6 +20,3 @@
 [Firebase-community.slack.com](https://firebase-community.slack.com/)
 
 [Firebase Support Form](https://firebase.google.com/support/contact/)
-
----
-# [Firestore](firestore/firestore.md)
