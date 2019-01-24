@@ -4,7 +4,7 @@
 
 [Firestore](firestore/firestore.md)
 
-[Firestore Storage](firebase-storage.md)
+[Firebase Storage](firebase-storage.md)
 
 ---
 

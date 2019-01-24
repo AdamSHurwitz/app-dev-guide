@@ -10,5 +10,7 @@
 
 ## [Firebase](firebase/firebase.md)
 
+## [Google Cloud Platform](gcp/gcp.md)
+
 ## [Ads](ads/ads.md)
 [Contribute and Setup](setup.md)
