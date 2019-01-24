@@ -32,8 +32,6 @@
 - [Learn JavaScript Promises (Pt 3) for sequential and parallel work in Cloud Functions - Firecasts](https://www.youtube.com/watch?v=d9GrysWH1Lc)
 
 ## Terminal Commands
-
-## Terminal Commands
 Used for Security Rules and Cloud Functions
 
 Setup and Install: [Firebase CLI Reference](https://firebase.google.com/docs/cli/)
