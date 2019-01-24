@@ -49,6 +49,7 @@
 1. Add app.
 2. Add ad unit.
 3. Add network (include [placement id](#setup)), marketplace (if app is live), or direct order.
+   - Keyword targeting: **m_age** (cannot use age range), **m_gender**
 4. Add segment. (targeting optional)
 
 ### Sources

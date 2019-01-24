@@ -10,6 +10,8 @@
 ### Resources
 [airtable.com/api](https://airtable.com/api)
 
+**Pro-tip:** leave one empty cell at the end of the table as API request misses last index.
+
 ## Google Sheets
 ### Resources
 [Introduction to the Google Sheets API](https://developers.google.com/sheets/api/guides/concepts)
