@@ -4,6 +4,8 @@
 
 [Firestore](firestore/firestore.md)
 
+[Cloud Functions](cloud-functions.md)
+
 [Firebase Storage](firebase-storage.md)
 
 ---
