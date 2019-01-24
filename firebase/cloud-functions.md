@@ -2,6 +2,8 @@
 
 [Resources](#Resources)
 
+[Structure](#Structure)
+
 [Terminal Commands](#Terminal-Commands)
 
 ---
@@ -30,6 +32,22 @@
 - [Learn JavaScript Promises (Pt.1) with HTTP Triggers in Cloud Functions - Firecasts](https://www.youtube.com/watch?v=7IkUgCLr5oA&t)
 - [Learn JavaScript Promises (Pt. 2) with a Firestore Trigger in Cloud Functions - Firecasts](https://www.youtube.com/watch?v=652XeeKNHSk&t)
 - [Learn JavaScript Promises (Pt 3) for sequential and parallel work in Cloud Functions - Firecasts](https://www.youtube.com/watch?v=d9GrysWH1Lc)
+
+**Samples**
+- [Codelab](https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/#0)
+- [FirebaseExtended/user-data-protection](https://github.com/FirebaseExtended/user-data-protection)
+- [firebase/functions-samples](https://github.com/firebase/functions-samples)
+   - [bigquery-import](https://github.com/firebase/functions-samples/tree/master/bigquery-import) 
+   - [coupon-on-purchase](https://github.com/firebase/functions-samples/tree/master/coupon-on-purchase)
+   - [fcm-notifications](https://github.com/firebase/functions-samples/tree/master/fcm-notifications)
+   - [child-count](https://github.com/firebase/functions-samples/tree/master/child-count)
+
+
+## Structure
+
+Dependencies: package.json
+
+Sample endpoint: https://us-central1-cloud-functions-sample-496b1.cloudfunctions.net/addMessage?text=yourTextInput
 
 ## Terminal Commands
 Used for Security Rules and Cloud Functions
