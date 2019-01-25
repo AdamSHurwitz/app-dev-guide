@@ -22,14 +22,14 @@ Build Gradle App
 
 ## Terminal Commands
 
-|Managing SDK Configurations - View||
+|View||
 |---|---|
 |`gcloud topic configurations`| About configurations.
 |`gcloud config list`|	List properties in active configuration.
 |`gcloud config configurations describe [NAME]`|	List properties in specific configuration.
 |`gcloud config configurations list`|	List all configurations.
 
-|Managing SDK Configurations - Edit||
+|Edit||
 |---|---|
 |`gcloud auth application-default login`|	Authenticate
 |`gcloud config configurations create [NAME]`| Create configuration. (need to activate after creation)
