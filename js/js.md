@@ -29,7 +29,7 @@ Sublime Text
 
 ## VsCode
 
-**Resources**
+### Resources
 
 [Integrated Terminal](https://code.visualstudio.com/docs/editor/integrated-terminal)
 
@@ -47,7 +47,7 @@ Extensions
    - [Markdown TOC](https://marketplace.visualstudio.com/items?itemName=AlanWalk.markdown-toc)
    - [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts)
 
-   **HotKeys**
+   ### HotKeys
 
 |Function|mac|windows|linux
 |---|---|---|---
