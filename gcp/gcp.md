@@ -22,6 +22,8 @@ Build Gradle App
 
 ## Terminal Commands
 
+**SDK**
+
 |View||
 |---|---|
 |`gcloud topic configurations`| About configurations.
@@ -40,3 +42,17 @@ Build Gradle App
 |`gradle appengineRun`| Run standard application
 |`gradle appengineStop`| Stop standard application
 |`gradle jettyRun`| Run flexible application
+
+**Deployed**
+
+|View||
+|---|---|
+|`gcloud app versions list`|List deployed versions.
+|`gcloud app logs tail -s default`|See app logs.
+
+|Edit||
+|---|---|
+|`gradle appengineDeploy`|Deploy
+|`gcloud app browse`|Launches app. (local: http://localhost:8080/ or hosted: https://projectName.appspot.com/). Useful for debugging.
+|`gcloud app versions stop VERSIONS appVersion`|Stop deployed version.
+|`gcloud app services delete service`|Delete service.
