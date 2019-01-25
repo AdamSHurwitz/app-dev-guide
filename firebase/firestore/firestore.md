@@ -1,10 +1,16 @@
 # Firestore
 
+[Resources](#Resources)
+
 [Query](#Query)
 
 [Security Rules](firestore-security-rules.md)
 
 ---
+
+## Resources
+
+[Schedule data exports to Firebase Storage](https://firebase.google.com/docs/firestore/solutions/schedule-export)
 
 ## Query
 **Resources**
