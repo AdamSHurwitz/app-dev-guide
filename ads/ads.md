@@ -159,6 +159,8 @@ _Apps_ > _appName_ > _adUnitName_ > _Edit Ad Unit_ > _View code integration_
 
 [System User Token Generation](https://developers.facebook.com/docs/audience-network/reporting-api/systemuser/) (Used for MoPub reporting)
 
+**[Monetization Support](https://go.fb.com/audience-network-consultation-form.html)**
+
 ### Setup
 
 [Monetize Your App With Audience Network](https://www.facebook.com/help/publisher/1195459597167215)
@@ -166,7 +168,8 @@ _Apps_ > _appName_ > _adUnitName_ > _Edit Ad Unit_ > _View code integration_
       1. Create placement ID (Required for MoPub): _Business Manager_ > _Monetization Manager_ > _Create Property_ > add platform > _Create Ad Space_ > _Copy ID_
       2. Setup payment: _Your app won't be able to receive Audience Network ads until payout information has been added._
    2. Manage placements: _Business Manager_ > _Monetization Manager_ > select property > _Manage Property_
-   3. Create [system user token](https://developers.facebook.com/docs/audience-network/reporting-api/systemuser#systemuser) for reporting. (_Only those apps with Live status can be used to generate System User Access Token._)
+   3. [Set CPM Targets](https://www.facebook.com/help/publisher/133212460594681?helpref=faq_content): _Business Manager_ > _Monetization Manager_ > _Property Settings_ > Country Groups
+   4. Create [system user token](https://developers.facebook.com/docs/audience-network/reporting-api/systemuser#systemuser) for reporting. (_Only those apps with Live status can be used to generate System User Access Token._)
 
 ### Testing
  [Testing Audience Network Implementation](https://developers.facebook.com/docs/audience-network/testing/#testing-real)
