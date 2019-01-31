@@ -2,8 +2,6 @@
 
 ## [Kotlin](kotlin/kotlin.md)
 
-## [JavaScript](js/js.md)
-
 ## [ReactiveX](rx/rx.md)
 
 ## [Android](android/android.md)
