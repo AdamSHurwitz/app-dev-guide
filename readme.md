@@ -8,6 +8,4 @@
 
 ## [Flutter](flutter/flutter.md)
 
-## [Google Cloud Platform](gcp/gcp.md)
-
 ## [Ads](ads/ads.md)
