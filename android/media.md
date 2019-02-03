@@ -1,13 +1,6 @@
 # Media
 
-[YouTube](#YouTube)
-
 [ExoPlayer](#ExoPlayer)
-
----
-
-## YouTube
-[Guide](https://docs.google.com/document/d/1SP3mo4c4aFclQSJG4ECrCIqbrytPNm_f2LgtULTY25Y/edit)
 
 ---
 
