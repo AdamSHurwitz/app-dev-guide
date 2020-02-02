@@ -1,3 +1,0 @@
-# ReactiveX
-
-[RxKotlin](rxkotlin.md)
